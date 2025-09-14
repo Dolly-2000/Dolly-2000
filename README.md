@@ -26,7 +26,7 @@
 
 </td>
 <td width="35%" align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/32097c2723425a7ad64b9117621cb443.gif" width="300" />
+   <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/coding.gif" width="300" />
 </td>
 </tr>
 </table>
