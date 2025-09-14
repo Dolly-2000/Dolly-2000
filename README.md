@@ -53,11 +53,4 @@ I'm a Master's student at **IIT Kharagpur**, diving deep into the world of Artif
 
 <br>
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dolly-2000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Dolly's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolly-2000&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
-</p>
 
