@@ -11,7 +11,6 @@ I'm a Master's student at **IIT Kharagpur**, diving deep into the world of Artif
 - 🔭 **I’m currently working on:** Advancing my skills in Deep Learning, Machine Learning & Gen AI.
 - 🌱 **I’m currently learning:** Data Structures and Algorithms for competitive programming.
 - 👯 **I’m looking to collaborate on:** Meaningful and challenging projects.
-- 🤔 **Ask me about:** DL, ML, GATE and Mtech@IITKgp.
 - 🤔 **Current Project:** Reinforcement Fine-Tuning (RLHF) for Large Language Models (LLMs).
 - 📫 **How to reach me:** [pandeydolly63@gmail.com](mailto:pandeydolly63@gmail.com)
 - 😄 **Pronouns:** she/her
@@ -32,25 +31,3 @@ I'm a Master's student at **IIT Kharagpur**, diving deep into the world of Artif
 </p>
 
 <br>
-
-### 📫 Let's Connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dolly-pandey-0b00a0267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:pandeydolly63@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-</td>
-<td width="35%" align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/32097c2723425a7ad64b9117621cb443.gif" width="300" />
-</td>
-</tr>
-</table>
-
-<br>
-
-
